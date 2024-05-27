@@ -1,14 +1,14 @@
 # EnderSMP Recipes
 A recipes mod for EnderSMP, attempting to replace some of the Create: Automated mods.
 
-TODO:
+TODO: <br />
 Creative tank <br />
 Veridium <br />
 Ochrum <br />
 Crimsite <br />
 Netherrack <br />
 
-COMPLETED:
+COMPLETED: <br />
 Asurine <br />
 Limestone <br />
 Calcite <br />
