@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1
+    },
+    {
+      "fluidTag": "minecraft:lava",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherrack",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}
