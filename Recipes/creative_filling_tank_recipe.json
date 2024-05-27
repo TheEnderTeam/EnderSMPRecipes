@@ -1,0 +1,48 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " AAAAAAA ",
+    "BCDDDDDCB",
+    "BDEFEFEDB",
+    "BDFGHGFDB",
+    "BDEHIHEDB",
+    "BDFGHGFDB",
+    "BDEFEFEDB",
+    "BCDDDDDCB",
+    " AAAAAAA "
+  ],
+  "key": {
+    "A": {
+      "item": "create_sa:large_fueling_tank"
+    },
+    "B": {
+      "item": "create_sa:large_filling_tank"
+    },
+    "C": {
+      "item": "as2:cell_component_256k"
+    },
+    "D": {
+      "item": "create:brass_block"
+    },
+    "E": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "create:precision_mechanism"
+    },
+    "G": {
+      "item": "minecraft:netherite_block"
+    },
+    "H": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "I": {
+      "item": "create:flywheel"
+    }
+  },
+  "result": {
+    "item": "create_sa:creative_filling_tank",
+    "count": 1
+  },
+  "acceptMirrored": false
+}
