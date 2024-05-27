@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite",
+      "count": 2
+    },
+    {
+      "item": "minecraft:calcite",
+      "count": 2
+    },
+    {
+      "fluidTag": "minecraft:lava",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:tuff",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

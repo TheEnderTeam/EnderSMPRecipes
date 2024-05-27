@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:stone",
+      "count": 2
+    },
+    {
+      "item": "create:limestone",
+      "count": 2
+    },
+    {
+      "fluidTag": "minecraft:lava",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:calcite"
+      "count": 2
+    }
+  ]
+}

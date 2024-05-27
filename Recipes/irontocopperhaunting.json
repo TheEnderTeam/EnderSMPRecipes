@@ -1,0 +1,16 @@
+{
+    "type": "create:haunting",
+    "ingredients": [
+    	{
+    		"item": "minecraft:iron_ingot",
+    		"count": 2
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:copper_ingot",
+			"count": 1,
+			"chance": 0.75
+		}
+	]
+}

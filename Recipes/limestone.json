@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "count": 2
+    },
+    {
+      "fluidTag": "minecraft:water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create:limestone",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}
