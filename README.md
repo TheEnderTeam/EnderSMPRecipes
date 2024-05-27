@@ -3,7 +3,6 @@ A recipes mod for EnderSMP, attempting to replace some of the Create: Automated 
 THIS CURRENTLY DOESNT HOST SOURCE CODE - WILL SOMETIME IN THE GREAT FUTURE
 
 TODO: <br />
-Creative tank <br />
 Veridium <br />
 Ochrum <br />
 Crimsite <br />
@@ -15,7 +14,8 @@ Limestone <br />
 Calcite <br />
 Tuff <br />
 Obsidian <br />
-Haunt Iron to Copper
+Haunt Iron to Copper <br />
+Creative tank <br />
 
 
 ADD TO THE MOD! <br />
