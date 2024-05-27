@@ -16,3 +16,7 @@ Calcite <br />
 Tuff <br />
 Obsidian <br />
 Haunt Iron to Copper
+
+
+ADD TO THE MOD! <br />
+Use pull requests to add recipes and I will add them to the mod.
