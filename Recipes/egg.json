@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:egg",
+      "count": 1
+    },
+    {
+      "item": "create:wheat_flour",
+      "amount": 1
+    }
+  ],
+  "results": [
+    {
+      "item": "egg",
+      "count": 2
+    }
+  ]
+}
