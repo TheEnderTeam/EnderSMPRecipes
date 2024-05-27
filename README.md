@@ -1,5 +1,6 @@
 # EnderSMP Recipes
-A recipes mod for EnderSMP, attempting to replace some of the Create: Automated mods.
+A recipes mod for EnderSMP, attempting to replace some of the Create: Automated mods.\
+THIS CURRENTLY DOESNT HOST SOURCE CODE - WILL SOMETIME IN THE GREAT FUTURE
 
 TODO: <br />
 Creative tank <br />
