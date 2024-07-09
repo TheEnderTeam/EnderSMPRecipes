@@ -19,5 +19,6 @@
       "item": "minecraft:calcite"
       "count": 2
     }
-  ]
+  ],
+  "heatRequirement": "heated"
 }
